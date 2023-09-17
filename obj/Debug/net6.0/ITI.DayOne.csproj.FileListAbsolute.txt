@@ -3,3 +3,17 @@ C:\Users\nnora\OneDrive\Desktop\full stack .net\adv-c#\lab1\ITI.DayOne\obj\Debug
 C:\Users\nnora\OneDrive\Desktop\full stack .net\adv-c#\lab1\ITI.DayOne\obj\Debug\net6.0\ITI.DayOne.AssemblyInfoInputs.cache
 C:\Users\nnora\OneDrive\Desktop\full stack .net\adv-c#\lab1\ITI.DayOne\obj\Debug\net6.0\ITI.DayOne.AssemblyInfo.cs
 C:\Users\nnora\OneDrive\Desktop\full stack .net\adv-c#\lab1\ITI.DayOne\obj\Debug\net6.0\ITI.DayOne.csproj.CoreCompileInputs.cache
+D:\iti\net track\.net track\adv c#\lab1\ITI-advCS-FirstLab\obj\Debug\net6.0\ITI.DayOne.GeneratedMSBuildEditorConfig.editorconfig
+D:\iti\net track\.net track\adv c#\lab1\ITI-advCS-FirstLab\obj\Debug\net6.0\ITI.DayOne.AssemblyInfoInputs.cache
+D:\iti\net track\.net track\adv c#\lab1\ITI-advCS-FirstLab\obj\Debug\net6.0\ITI.DayOne.AssemblyInfo.cs
+D:\iti\net track\.net track\adv c#\lab1\ITI-advCS-FirstLab\obj\Debug\net6.0\ITI.DayOne.csproj.CoreCompileInputs.cache
+D:\iti\net track\.net track\adv c#\lab1\ITI-advCS-FirstLab\bin\Debug\net6.0\ITI.DayOne.exe
+D:\iti\net track\.net track\adv c#\lab1\ITI-advCS-FirstLab\bin\Debug\net6.0\ITI.DayOne.deps.json
+D:\iti\net track\.net track\adv c#\lab1\ITI-advCS-FirstLab\bin\Debug\net6.0\ITI.DayOne.runtimeconfig.json
+D:\iti\net track\.net track\adv c#\lab1\ITI-advCS-FirstLab\bin\Debug\net6.0\ITI.DayOne.dll
+D:\iti\net track\.net track\adv c#\lab1\ITI-advCS-FirstLab\bin\Debug\net6.0\ITI.DayOne.pdb
+D:\iti\net track\.net track\adv c#\lab1\ITI-advCS-FirstLab\obj\Debug\net6.0\ITI.DayOne.dll
+D:\iti\net track\.net track\adv c#\lab1\ITI-advCS-FirstLab\obj\Debug\net6.0\refint\ITI.DayOne.dll
+D:\iti\net track\.net track\adv c#\lab1\ITI-advCS-FirstLab\obj\Debug\net6.0\ITI.DayOne.pdb
+D:\iti\net track\.net track\adv c#\lab1\ITI-advCS-FirstLab\obj\Debug\net6.0\ITI.DayOne.genruntimeconfig.cache
+D:\iti\net track\.net track\adv c#\lab1\ITI-advCS-FirstLab\obj\Debug\net6.0\ref\ITI.DayOne.dll
