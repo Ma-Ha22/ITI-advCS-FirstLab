@@ -9,6 +9,8 @@ public class Class1
 		{
             users u = new users();
             u.display();
+	    users u2 = new users();
+	    u2.display();
         }
 	
 }
