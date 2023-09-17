@@ -1,0 +1,5 @@
+C:\Users\nnora\OneDrive\Desktop\full stack .net\adv-c#\lab1\ITI.DayOne\obj\Debug\net6.0\ITI.DayOne.csproj.AssemblyReference.cache
+C:\Users\nnora\OneDrive\Desktop\full stack .net\adv-c#\lab1\ITI.DayOne\obj\Debug\net6.0\ITI.DayOne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nnora\OneDrive\Desktop\full stack .net\adv-c#\lab1\ITI.DayOne\obj\Debug\net6.0\ITI.DayOne.AssemblyInfoInputs.cache
+C:\Users\nnora\OneDrive\Desktop\full stack .net\adv-c#\lab1\ITI.DayOne\obj\Debug\net6.0\ITI.DayOne.AssemblyInfo.cs
+C:\Users\nnora\OneDrive\Desktop\full stack .net\adv-c#\lab1\ITI.DayOne\obj\Debug\net6.0\ITI.DayOne.csproj.CoreCompileInputs.cache
