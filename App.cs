@@ -11,6 +11,8 @@ public class Class1
             u.display();
 	    users u2 = new users();
 	    u2.display();
+			 users u3 = new users();
+	    u3.display();
         }
 	
 }
